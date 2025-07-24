@@ -35,7 +35,7 @@ https://daveceddia.com/react-tutorial/
 
 Note: We will start writing React code in App.js and other component files
 
-7. Once you have completed this assignment and everthing is running please report it with your github repo UTL and surge website URL in:
+7. Once you have completed this assignment and everything is running please report it with your github repo UTL and surge website URL in:
 
 https://github.com/panacloud/Base-React-App/issues
 
